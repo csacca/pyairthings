@@ -1,0 +1,1 @@
+"""Define the pyairthings package."""
